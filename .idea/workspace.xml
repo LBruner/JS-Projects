@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21d1d24f-7d3e-4875-808e-24ca66823922" name="Changes" comment="" />
+    <list default="true" id="21d1d24f-7d3e-4875-808e-24ca66823922" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JS-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuoteGenerator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuoteGenerator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuoteGenerator/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/QuoteGenerator/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22ZF21vDpXsQmnPrvtE99iKktuC" />
   <component name="ProjectViewState">
@@ -15,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="discord-application" />
@@ -27,11 +38,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640037018181</updated>
-      <workItem from="1640037031582" duration="497000" />
+      <workItem from="1640037031582" duration="4305000" />
+      <workItem from="1640093644912" duration="2410000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
