@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21d1d24f-7d3e-4875-808e-24ca66823922" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/InfiniteScroll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/InfiniteScroll/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfiniteScroll/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/InfiniteScroll/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="21d1d24f-7d3e-4875-808e-24ca66823922" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +32,8 @@
       <option name="presentableId" value="Default" />
       <updated>1640037018181</updated>
       <workItem from="1640037031582" duration="4305000" />
-      <workItem from="1640093644912" duration="7838000" />
+      <workItem from="1640093644912" duration="8291000" />
+      <workItem from="1640170996084" duration="2073000" />
     </task>
     <servers />
   </component>
