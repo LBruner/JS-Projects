@@ -20,8 +20,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.17" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="discord-application" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,6 +40,7 @@
       <workItem from="1640180639253" duration="484000" />
       <workItem from="1640263728935" duration="3912000" />
       <workItem from="1640379899329" duration="370000" />
+      <workItem from="1640552451641" duration="3077000" />
     </task>
     <servers />
   </component>
